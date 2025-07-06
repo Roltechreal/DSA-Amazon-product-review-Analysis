@@ -42,12 +42,18 @@ Data cleaning and formatting, we added some calculated columns.
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
-##Analysis
+## Analysis
 
 we first of all, clean the data before we start our analysis.
 in this analysis, category is the primary key. we added some calculated columns. 
 To get the average discount percent, calculated column was created with the dormular = Actual price-Discounted price/actual price * 100). 
-we added calculated column to know the product that 
+we added calculated column to know the product that have a discount of 50% or more with the formular
+= IF( Discount %>=50,"yes,"No") .
+
+We added another Calculated Column called Total Potential Revenue, we use thw formula to get = (Actual price* Rating Count). 
+
+We created a new Column called Column Price Bucket with the formula =IF (Discounted price<200,"<
+
 
 
 
