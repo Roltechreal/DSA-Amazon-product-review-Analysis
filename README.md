@@ -37,7 +37,17 @@ Data cleaning and formatting, we added some calculated columns.
 4.0, etc.)?
 9. What is the total potential revenue (actual_price × rating_count) by category?
 10. What is the number of unique products per price range bucket (e.g., <₹200,₹200–₹500, >₹500)?.
+1. How does the rating relate to the level of discount?
+12. How many products have fewer than 1,000 reviews?
+13. Which categories have products with the highest discounts?
+14. Identify the top 5 products in terms of rating and number of reviews combined.
 
+##Analysis
+
+we first of all, clean the data before we start our analysis.
+in this analysis, category is the primary key. we added some calculated columns. 
+To get the average discount percent, calculated column was created with the dormular = Actual price-Discounted price/actual price * 100). 
+we added calculated column to know the product that 
 
 
 
