@@ -25,6 +25,12 @@ In the initial phase of data cleaning, the following where carried out:
 ### Data Loading and inspection
 Data cleaning and formatting, we added some calculated columns.
 
+#### Some analytical questions were asked in order to find solutions to the problems 
+1. What is the average discount percentage by product category?
+2. How many products are listed under each category?
+3. What is the total number of reviews per category?
+4. Which products have the highest average ratings?
+5. What is the average actual price vs the discounted price by category?
 
 6. Which products have the highest number of reviews?
 7. How many products have a discount of 50% or more?
