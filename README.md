@@ -17,4 +17,12 @@ by Analysing the various parameters in the data received, we seek to gather enou
 ## Data source
 The data is gotten from scraped Amazon product pages. 
 
+## Tools used
+we used Microsoft Excel in achieving this project
+
+## Data Cleaning
+In the initial phase of data cleaning, the following where carried out:
+### Data Loading and inspection
+Data cleaning and formatting, we added some calculated columns.
+
 
