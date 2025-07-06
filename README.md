@@ -62,7 +62,19 @@ To calculate dor the top 5 products by rating plus number of reviews xombines, w
 
 2. To know the number of Products listed under category, we use Pivots table by placing category in Rows and products name in value ( we set to count Dist). Below is the result.
 
-3. For Total number is of reviews per category, a pivot table was created, Category is placed underRows and Rating count and was placed under values. below is the result. 
+3. For Total number is of reviews per category, a pivot table was created, Category is placed underRows and Rating count and was placed under values. below is the result.
+
+4. Products with the highest Average ratings, the data was sorted out ( The Average Column in descending order).
+
+5. Average actual price vs discounted price, pivot table were used. Category is set under the Rows, actual price and Discounted price was placed under values. the result is shown below.
+
+6. Products with the highest number of reviews, Rating count column was sorted in descending order as shown below.
+
+7. Number of Products with a discount of 50% or more, we use a Count IF functions.
+
+8. Distribution of product rating, we use pivot table, The rating is used as the Rows and Peoduxt name as Values as shown below.
+
+9. Total potential revenue by category, we use pivot table by putting category in Rows and potential Revenue 
 
 
 
