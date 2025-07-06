@@ -74,7 +74,17 @@ To calculate dor the top 5 products by rating plus number of reviews xombines, w
 
 8. Distribution of product rating, we use pivot table, The rating is used as the Rows and Peoduxt name as Values as shown below.
 
-9. Total potential revenue by category, we use pivot table by putting category in Rows and potential Revenue 
+9. Total potential revenue by category, we use pivot table by putting category in Rows and potential Revenue (sum) in values.
+
+10. To know the number of unique products per price range bucket, we use pivot table, we set Price bucket as Rows and Product name (count) as values.
+
+11. How the range relates to the level of discount . a scatte chart was created on this.
+
+12. Number of Products with fewer than 1,000 eeviews, we checked this on our status bar.
+
+13. Categories with the highest discount, we use Pivot table in this, we set category as Rows and Discount%(max) as values.
+
+14. Top 5 Products ny ratings+ number of reviews combined
 
 
 
