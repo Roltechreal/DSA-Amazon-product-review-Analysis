@@ -52,7 +52,17 @@ we added calculated column to know the product that have a discount of 50% or mo
 
 We added another Calculated Column called Total Potential Revenue, we use thw formula to get = (Actual price* Rating Count). 
 
-We created a new Column called Column Price Bucket with the formula =IF (Discounted price<200,"<
+We created a new Column called Column Price Bucket with the formula =IF (Discounted price<200,"<₹200"
+IF(Discounted price <=500")).
+
+To calculate dor the top 5 products by rating plus number of reviews xombines, we created calculated column with the formula = Average Rating+ (Ratimg count/ scaling factor).
+
+### Providing solutions to the questions raised earlier with regards to the data.
+1. Average discount percentage by product category is gotten from our pivot table, where we put category in Rows and Discount % as values, we summarize by Average. The iamage below shows the results of this result of this analysis.
+
+2. To know the number of Products listed under category, we use Pivots table by placing category in Rows and products name in value ( we set to count Dist). Below is the result.
+
+3. For Total number is of reviews per category, a pivot table was created, Category is placed underRows and Rating count and was placed under values. below is the result. 
 
 
 
