@@ -30,14 +30,14 @@ Data cleaning and formatting, we added some calculated columns.
 2. How many products are listed under each category?
 3. What is the total number of reviews per category?
 4. Which products have the highest average ratings?
-5. What is the average actual price vs the discounted price by category?
-
-6. Which products have the highest number of reviews?
+5. What is the average actual price vs the discounted price by categor
+6. Which products have the highest number of reviews?.
 7. How many products have a discount of 50% or more?
 8. What is the distribution of product ratings (e.g., how many products are rated 3.0,
 4.0, etc.)?
 9. What is the total potential revenue (actual_price × rating_count) by category?
 10. What is the number of unique products per price range bucket (e.g., <₹200,
+
 
 
 
