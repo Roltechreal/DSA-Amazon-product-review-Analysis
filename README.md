@@ -36,7 +36,8 @@ Data cleaning and formatting, we added some calculated columns.
 8. What is the distribution of product ratings (e.g., how many products are rated 3.0,
 4.0, etc.)?
 9. What is the total potential revenue (actual_price × rating_count) by category?
-10. What is the number of unique products per price range bucket (e.g., <₹200,
+10. What is the number of unique products per price range bucket (e.g., <₹200,₹200–₹500, >₹500)?.
+
 
 
 
