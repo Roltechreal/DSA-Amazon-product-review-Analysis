@@ -104,13 +104,23 @@ To calculate dor the top 5 products by rating plus number of reviews xombines, w
     ![question 11](https://github.com/user-attachments/assets/47d9e49b-60fe-4602-bd8b-60ac042d2181)
 
 
-12. Number of Products with fewer than 1,000 eeviews, we checked this on our status bar.
+12. Number of Products with fewer than 1,000 reviews.The rating count of the original table was filtered less than 1000 and a count function was used to ascertain the actual number which is 1331.
 
 13. Categories with the highest discount, we use Pivot table in this, we set category as Rows and Discount%(max) as values.
+
+    ![question 13 category](https://github.com/user-attachments/assets/8901feeb-43db-4593-bfbb-35efd9930b02)
+
 
 14. Top 5 Products ny ratings+ number of reviews combined
 
 
+### Dashboard of this analysis
+
+![Product dashboard 1 main](https://github.com/user-attachments/assets/91534f8b-9165-4184-8d48-fdce7adf5301)
 
 
+![product dashboard 2](https://github.com/user-attachments/assets/91937a89-81c0-4a18-9f59-a36dbbefa595)
 
+![Dashboard 3](https://github.com/user-attachments/assets/d716a971-6eb9-4dbf-a220-3f6895b652dd)
+
+![dashboard 4](https://github.com/user-attachments/assets/4b7f29ec-311e-44a4-a749-4216047bad28)
