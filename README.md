@@ -101,6 +101,9 @@ To calculate dor the top 5 products by rating plus number of reviews xombines, w
 
 11. How the range relates to the level of discount . a scatte chart was created on this.
 
+    ![question 11](https://github.com/user-attachments/assets/47d9e49b-60fe-4602-bd8b-60ac042d2181)
+
+
 12. Number of Products with fewer than 1,000 eeviews, we checked this on our status bar.
 
 13. Categories with the highest discount, we use Pivot table in this, we set category as Rows and Discount%(max) as values.
