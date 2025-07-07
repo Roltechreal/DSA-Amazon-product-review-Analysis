@@ -124,3 +124,6 @@ To calculate dor the top 5 products by rating plus number of reviews xombines, w
 ![Dashboard 3](https://github.com/user-attachments/assets/d716a971-6eb9-4dbf-a220-3f6895b652dd)
 
 ![dashboard 4](https://github.com/user-attachments/assets/4b7f29ec-311e-44a4-a749-4216047bad28)
+
+### COnclusion
+The Analysis was carried out and Charts were created, with this the questions asked were anawered and this will aid the company during decison making for the improvement of the company, this analysis will also generate insights that can guide product improvement, marketing strategies, and customer engagement.
