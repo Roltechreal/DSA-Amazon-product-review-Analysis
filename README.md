@@ -7,8 +7,8 @@ a  retail tech company provided us with unsorted data for us to analyze and give
    2. Customer engagement: user reviews, titles, and content. 
      Each row represents a unique product, with aggregated reviewer data 
 stored as comma-separated values 
-### Total Records: 1,465 
-### Total Fields: 16 columns 
+#### Total Records: 1,465 
+#### Total Fields: 16 columns 
      
 we had to clean the data, then analyse before visualizing. it has beeen a great experience working on data as a data analyst, we used Excel as a tool to achieve the end result of this project.  
 
@@ -60,31 +60,41 @@ To calculate dor the top 5 products by rating plus number of reviews xombines, w
 ### Providing solutions to the questions raised earlier with regards to the data.
 1. Average discount percentage by product category is gotten from our pivot table, where we put category in Rows and Discount % as values, we summarize by Average. The iamage below shows the results of this result of this analysis.
 
-2. To know the number of Products listed under category, we use Pivots table by placing category in Rows and products name in value ( we set to count Dist). Below is the result.
+![question 1 average discount percentage](https://github.com/user-attachments/assets/a96f93a5-92ef-4f87-821f-7fb19973e4a2)
 
-3. For Total number is of reviews per category, a pivot table was created, Category is placed underRows and Rating count and was placed under values. below is the result.
+2.  To know the number of products listed under each category, we use Pivot table where we set category as Rows and product name as values (Summarized by Average).
+
+![Question 2, how many products are listed under each category](https://github.com/user-attachments/assets/252899e3-3437-4ed6-910c-7a8896d85a8a)
+
+
+3. To know the number of Products listed under category, we use Pivots table by placing category in Rows and products name in value ( we set to count Dist). Below is the result.
+
+![Total number of reviews per category quest 3](https://github.com/user-attachments/assets/53b50378-5b16-4901-a2d6-8c12c561a211)
+
 
 4. Products with the highest Average ratings, the data was sorted out ( The Average Column in descending order).
 
-5. Average actual price vs discounted price, pivot table were used. Category is set under the Rows, actual price and Discounted price was placed under values. the result is shown below.
+   
 
-6. Products with the highest number of reviews, Rating count column was sorted in descending order as shown below.
+7. Average actual price vs discounted price, pivot table were used. Category is set under the Rows, actual price and Discounted price was placed under values. the result is shown below.
 
-7. Number of Products with a discount of 50% or more, we use a Count IF functions.
+8. Products with the highest number of reviews, Rating count column was sorted in descending order as shown below.
 
-8. Distribution of product rating, we use pivot table, The rating is used as the Rows and Peoduxt name as Values as shown below.
+9. Number of Products with a discount of 50% or more, we use a Count IF functions.
 
-9. Total potential revenue by category, we use pivot table by putting category in Rows and potential Revenue (sum) in values.
+10. Distribution of product rating, we use pivot table, The rating is used as the Rows and Peoduxt name as Values as shown below.
 
-10. To know the number of unique products per price range bucket, we use pivot table, we set Price bucket as Rows and Product name (count) as values.
+11. Total potential revenue by category, we use pivot table by putting category in Rows and potential Revenue (sum) in values.
 
-11. How the range relates to the level of discount . a scatte chart was created on this.
+12. To know the number of unique products per price range bucket, we use pivot table, we set Price bucket as Rows and Product name (count) as values.
 
-12. Number of Products with fewer than 1,000 eeviews, we checked this on our status bar.
+13. How the range relates to the level of discount . a scatte chart was created on this.
 
-13. Categories with the highest discount, we use Pivot table in this, we set category as Rows and Discount%(max) as values.
+14. Number of Products with fewer than 1,000 eeviews, we checked this on our status bar.
 
-14. Top 5 Products ny ratings+ number of reviews combined
+15. Categories with the highest discount, we use Pivot table in this, we set category as Rows and Discount%(max) as values.
+
+16. Top 5 Products ny ratings+ number of reviews combined
 
 
 
