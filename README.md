@@ -1,5 +1,5 @@
 # DSA-Amazon-product-review-Analysis
-a Retail tech company provided us with their product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
+A Retail tech company provided us with their product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 ## Project Topic: Amazon Product Review Analysis.
 ## Introduction 
 a  retail tech company provided us with unsorted data for us to analyze and give feedback in order for them to make decisions with the analysis output, The dataset contains information scraped from Amazon product pages, including: 
