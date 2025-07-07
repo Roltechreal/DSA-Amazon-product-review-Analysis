@@ -74,9 +74,11 @@ To calculate dor the top 5 products by rating plus number of reviews xombines, w
 
 4. Products with the highest Average ratings, the data was sorted out ( The Average Column in descending order).
 
-   
+   ![question 4 product with highest average ratings](https://github.com/user-attachments/assets/6071143c-5fb6-4a8e-b5a6-1ea2c9b60f71)
 
-7. Average actual price vs discounted price, pivot table were used. Category is set under the Rows, actual price and Discounted price was placed under values. the result is shown below.
+5. Average actual price vs discounted price, pivot table were used. Category is set under the Rows, actual price and Discounted price was placed under values. the result is shown below.
+   ![question 5 Average actual price vs discounted price by category main](https://github.com/user-attachments/assets/694f5766-fcf7-4e18-b450-40b1465b82ae)
+
 
 8. Products with the highest number of reviews, Rating count column was sorted in descending order as shown below.
 
