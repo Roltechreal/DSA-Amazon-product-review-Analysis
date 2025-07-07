@@ -80,23 +80,32 @@ To calculate dor the top 5 products by rating plus number of reviews xombines, w
    ![question 5 Average actual price vs discounted price by category main](https://github.com/user-attachments/assets/694f5766-fcf7-4e18-b450-40b1465b82ae)
 
 
-8. Products with the highest number of reviews, Rating count column was sorted in descending order as shown below.
+6. Products with the highest number of reviews, Rating count column was sorted in descending order as shown below.
 
-9. Number of Products with a discount of 50% or more, we use a Count IF functions.
+![question 6 products with the highest no of reviews](https://github.com/user-attachments/assets/a90f39a6-c977-4fdb-bee6-6cc3c34ff588)
 
-10. Distribution of product rating, we use pivot table, The rating is used as the Rows and Peoduxt name as Values as shown below.
+7. Number of Products with a discount of 50% or more, we use a Count IF functions.
+   
 
-11. Total potential revenue by category, we use pivot table by putting category in Rows and potential Revenue (sum) in values.
+8. Distribution of product rating, we use pivot table, The rating is used as the Rows and Peoduxt name as Values as shown below.
 
-12. To know the number of unique products per price range bucket, we use pivot table, we set Price bucket as Rows and Product name (count) as values.
+   ![ques 8 product distribution](https://github.com/user-attachments/assets/c8bfd57b-69df-4e6b-9fb7-6222e4cdba2b)
 
-13. How the range relates to the level of discount . a scatte chart was created on this.
 
-14. Number of Products with fewer than 1,000 eeviews, we checked this on our status bar.
+9. Total potential revenue by category, we use pivot table by putting category in Rows and potential Revenue (sum) in values.
+   
 
-15. Categories with the highest discount, we use Pivot table in this, we set category as Rows and Discount%(max) as values.
+10. To know the number of unique products per price range bucket, we use pivot table, we set Price bucket as Rows and Product name (count) as values.
+   
+![question 10 unique price range](https://github.com/user-attachments/assets/d801782b-cbb9-4baa-b4a2-07aa8b0b563a)
 
-16. Top 5 Products ny ratings+ number of reviews combined
+11. How the range relates to the level of discount . a scatte chart was created on this.
+
+12. Number of Products with fewer than 1,000 eeviews, we checked this on our status bar.
+
+13. Categories with the highest discount, we use Pivot table in this, we set category as Rows and Discount%(max) as values.
+
+14. Top 5 Products ny ratings+ number of reviews combined
 
 
 
